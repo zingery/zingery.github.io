@@ -1,6 +1,5 @@
-### Greeting
-
-I am a graduate student in the [Program of Molecular Medicine, UMass Medical School](https://www.umassmed.edu/pmm/).   
+ 
+Graduate student in the [Program of Molecular Medicine, UMass Medical School](https://www.umassmed.edu/pmm/).   
 
 ### CV
 
