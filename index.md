@@ -1,12 +1,11 @@
  
 Graduate student in the [Program of Molecular Medicine, UMass Medical School](https://www.umassmed.edu/pmm/).   
 
-### CV
+ 
+### Slide Deck Collection
 
-- [Google Scholar](https://scholar.google.com/citations?user=F1K5RmsAAAAJ)
-- [LinkedIn](https://www.linkedin.com/in/zingeryang/)
+coming soon
 
-Additional information available upon request.
 
 ### Contact
 
@@ -17,3 +16,5 @@ Biotech 2, Suite 107,
 373 Plantation Street,  
 Worcester, MA 01655  
 United States  
+
+
