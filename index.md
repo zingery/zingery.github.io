@@ -1,5 +1,3 @@
- 
-Graduate student in the [Program of Molecular Medicine, UMass Medical School](https://www.umassmed.edu/pmm/).   
 
  
 ### Slide Deck Collection
